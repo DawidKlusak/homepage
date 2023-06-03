@@ -1,0 +1,23 @@
+.article {
+    max-width: 900px;
+    margin: 20px auto;
+    padding: 20px;
+    font-size: 16px;
+    line-height: 1.6;
+    color: #666;
+    background: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.619);
+
+}
+
+.article__header {
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    color: aliceblue;
+    margin: 50px;
+    border-radius: 116px;
+    background: #6c4a1e;
+    box-shadow: -15px 15px 30px #37260f,
+        15px -15px 30px #a16e2d;
+}

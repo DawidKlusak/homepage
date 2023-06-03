@@ -1,0 +1,43 @@
+.navigation {
+    border-radius: 116px;
+    background: #6c4a1e;
+    box-shadow: -15px 15px 30px #37260f,
+        15px -15px 30px #a16e2d;
+    color: aliceblue;
+    list-style-type: none;
+    overflow: hidden;
+    padding: 5px;
+    margin: 0;
+    display: inline-block;
+    width: 100%;
+}
+
+.navigation_item {
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    color: aliceblue;
+    border-radius: 116px;
+    background: #6c4a1e;
+    padding: 10px;
+}
+
+.navigation_item:hover {
+    background: #a16e2d;
+    color: aliceblue;
+    text-decoration: none;
+}
+
+.navigation_list {
+    overflow: hidden;
+    margin: 0;
+    display: inline-block;
+}
+
+.navigation_link {
+    text-decoration: none;
+    color: #ffffff;
+    font-weight: bold;
+}
