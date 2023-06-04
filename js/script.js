@@ -1,4 +1,4 @@
-console.log("Cześć");
+console.log("Cześć i czołem");
 
 let button = document.querySelector(".js-button");
 let body = document.querySelector(".js-body");
