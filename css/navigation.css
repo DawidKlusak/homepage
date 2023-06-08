@@ -1,21 +1,19 @@
 .navigation {
-    border-radius: 116px;
+    border-radius: 50px;
     background: #6c4a1e;
     box-shadow: -15px 15px 30px #37260f,
         15px -15px 30px #a16e2d;
     color: aliceblue;
     list-style-type: none;
     overflow: hidden;
-    padding: 5px;
-    margin: 0;
+    padding: 20px;
+    margin: auto;
     display: inline-block;
-    width: 100%;
 }
 
 .navigation_item {
     display: inline-block;
     width: 100%;
-    text-align: center;
     font-size: 25px;
     font-weight: bold;
     color: aliceblue;
