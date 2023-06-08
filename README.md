@@ -7,7 +7,7 @@ Besides technologies i showed below, i used: **BEM, JavaScript ES+6, and normali
 
 ## Demo
 
-[https://dawidklusak.github.io/currency-converter/](https://dawidklusak.github.io/homepage/)
+[(https://dawidklusak.github.io/homepage/)](https://dawidklusak.github.io/homepage/)
 
 ## Preview
 
