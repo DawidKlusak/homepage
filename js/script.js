@@ -1,16 +1,23 @@
-const button = document.querySelector(".js-button");
-const body = document.querySelector(".js-body");
-const themeName = document.querySelector(".js-themeName");
-const tableDark = document.querySelector(".tableDark");
-const header = document.querySelector(".header");
+{
+    const button = document.querySelector(".js-button");
+    const body = document.querySelector(".js-body");
+    const themeName = document.querySelector(".js-themeName");
+    var tableDark = document.querySelector(".tableDark");
+    var header = document.querySelector(".header");
 
-button.addEventListener("click", () => {
-    body.classList.toggle("body--dark");
+    {
+        document.getElementById("js-buttonDate").addEventListener("click", displayDate);
 
-    themeName.innerText = body.classList.contains("dark") ? "jasny" : "ciemny";
-});
+        function displayDate() {
+            document.getElementById("paragraph__date").innerHTML = Date();
+        }
+    }
 
-const init = () => {
-    constbody = document.querySelector(".js-body");
-    fieldsetElement.addEventListener("submit", onFormSubmit)
+{
+    button.addEventListener("click", () => {
+        body.classList.toggle("body--dark");
+
+        themeName.innerText = body.classList.contains("dark") ? "jasny" : "ciemny";
+
+    });}
 }
