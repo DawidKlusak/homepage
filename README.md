@@ -1,9 +1,9 @@
 # Homepage
 ![welcome](https://github.com/DawidKlusak/currency-converter/assets/135499449/0d9cb5c2-b826-4344-a898-b5d30555ac51)
 
-Hi! This is my first page ever. Website is about black holes, mysteries about them, how they create. Page including table with the biggest black holes known to mankind.
+Hi! This is my first page ever. Website is about black holes, mysteries about them, how they create. Page includes table with the biggest black holes known to mankind.
 
-Besides technologies i showed below, i used: **BEM, JavaScript ES+6, and normalize.css**. That helps me make my project more responisve and clearly.
+Besides technologies i showed below, i used: **BEM, JavaScript ES+6, and normalize.css**. That helps me make my project more responsive and clear.
 
 ## Demo
 
