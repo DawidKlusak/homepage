@@ -11,7 +11,7 @@
     display: inline-block;
 }
 
-.navigation_item {
+.navigation__item {
     display: inline-block;
     width: 100%;
     font-size: 25px;
@@ -22,19 +22,19 @@
     padding: 10px;
 }
 
-.navigation_item:hover {
+.navigation__item:hover {
     background: #a16e2d;
     color: aliceblue;
     text-decoration: none;
 }
 
-.navigation_list {
+.navigation__list {
     overflow: hidden;
     margin: 0;
     display: inline-block;
 }
 
-.navigation_link {
+.navigation__link {
     text-decoration: none;
     color: #ffffff;
     font-weight: bold;
